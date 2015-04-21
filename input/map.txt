@@ -1,0 +1,4 @@
+master.novalocal -> 0
+slave1.novalocal -> 1
+slave2.novalocal -> 2
+slave3.novalocal -> 3
